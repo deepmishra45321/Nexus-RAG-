@@ -1,0 +1,8 @@
+streamlit
+langchain-core
+langchain-community
+langchain-ollama
+langgraph
+langgraph-checkpoint-sqlite
+chromadb
+pypdf

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+nexus_chroma_db/
+nexus_memory.db
+.env
+.DS_Store
