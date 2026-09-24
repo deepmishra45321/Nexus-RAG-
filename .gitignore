@@ -4,3 +4,4 @@ nexus_chroma_db/
 nexus_memory.db
 .env
 .DS_Store
+rag1/
